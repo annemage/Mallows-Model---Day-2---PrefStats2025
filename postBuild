@@ -1,8 +1,0 @@
-#!/bin/bash
-
-# Install R and some basic packages
-apt-get update
-apt-get install -y --no-install-recommends r-base r-base-dev
-
-# Install BayesMallows in R
-Rscript -e "install.packages('BayesMallows', repos='https://cloud.r-project.org')"
