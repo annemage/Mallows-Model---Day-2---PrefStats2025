@@ -1,0 +1,8 @@
+preflibtools
+prefpy
+ortools
+pandas
+numpy
+matplotlib
+seaborn
+rpy2
