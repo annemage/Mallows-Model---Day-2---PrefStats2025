@@ -1,2 +1,1 @@
-options(repos = c(CRAN = "https://cloud.r-project.org"))
-install.packages("BayesMallows")
+install.packages("BayesMallows", repos = "https://cloud.r-project.org")
